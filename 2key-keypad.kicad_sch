@@ -1334,8 +1334,8 @@
     (property "Datasheet" "~" (at 176.53 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cdb38409-94a3-4596-af5f-a840626c3488))
-    (pin "2" (uuid 948d1c87-10cf-4249-8925-177a073a4f89))
+    (pin "1" (uuid 08b322c4-8b2c-48ef-b44a-1db8e2483856))
+    (pin "2" (uuid 3b5904e0-3688-41e3-ad72-2d37cac2acbe))
     (instances
       (project "2key-keypad"
         (path "/2ca9f8c5-0c03-4250-b620-ee8da924d452"
