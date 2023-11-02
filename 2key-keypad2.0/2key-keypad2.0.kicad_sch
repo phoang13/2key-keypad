@@ -1752,8 +1752,8 @@
     (property "Datasheet" "" (at 142.875 26.035 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 3361411e-e226-4111-b2ea-09d42ed7b6cd))
-    (pin "2" (uuid 6e6b79cf-8dc0-4b95-ae43-f693efdca27a))
+    (pin "1" (uuid 69559287-c1d2-41b4-94b4-13f5a83f6854))
+    (pin "2" (uuid 7901171c-dd37-4cbb-b2df-8be21e92578d))
     (instances
       (project "2key-keypad2.0"
         (path "/cf4ca62e-83a7-4b00-b1fc-58bc2abb1296"
@@ -2137,8 +2137,8 @@
     (property "Datasheet" "" (at 159.385 26.035 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 3ba5c5dc-2a3d-48d7-9e16-866b8b80ae80))
-    (pin "2" (uuid bc747e93-7973-42a5-9930-16870fc3000a))
+    (pin "1" (uuid caee4e6a-fc70-4519-8602-bf22e4effea4))
+    (pin "2" (uuid 52866ddc-cb8f-42fa-9f7d-c2c47be6c075))
     (instances
       (project "2key-keypad2.0"
         (path "/cf4ca62e-83a7-4b00-b1fc-58bc2abb1296"
