@@ -4,7 +4,7 @@
     "url": "https://github.com/phoang13/2key-keypad",
     "maintainer": "phillip",
     "usb": {
-        "vid": "0x4B55",
+        "vid": "0x5048",
         "pid": "0x0000",
         "device_version": "0.0.1"
     },
@@ -16,9 +16,6 @@
         "rows": ["C5"]
     },
     "diode_direction": "COL2ROW",
-    "ws2812": {
-        "pin": "B3"
-    },
     "processor": "atmega32u2",
     "bootloader": "atmel-dfu",
     "layouts": {

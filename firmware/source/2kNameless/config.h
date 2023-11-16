@@ -16,6 +16,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 #pragma once
 
+#ifndef DYNAMIC_KEYMAP_LAYER_COUNT
+#define DYNAMIC_KEYMAP_LAYER_COUNT 8
+#endif
+
 #define WS2812_DI_PIN B3
 
 #ifdef WS2812_DI_PIN

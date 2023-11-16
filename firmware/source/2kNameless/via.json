@@ -1,0 +1,14 @@
+{
+    "name":"2kNameless",
+    "vendorId":"0x5048",
+    "productId":"0x0000",
+    "matrix":{
+      "rows":1,
+      "cols":2
+    },
+    "layouts":{
+       "keymap":[
+        ["0,0", "0,1"]
+      ]
+    }
+ }
