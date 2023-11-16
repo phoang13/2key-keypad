@@ -1,8 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "marbastlib-choc")(type "KiCad")(uri "C:/Users/phill/OneDrive/Documents/GitHub/2key-keypad/marbastlib/marbastlib-choc.kicad_sym")(options "")(descr ""))
-  (lib (name "marbastlib-mx")(type "KiCad")(uri "C:/Users/phill/OneDrive/Documents/GitHub/2key-keypad/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
-  (lib (name "marbastlib-various")(type "KiCad")(uri "C:/Users/phill/OneDrive/Documents/GitHub/2key-keypad/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
-  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/phill/OneDrive/Documents/GitHub/2key-keypad/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
-  (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/Users/phill/OneDrive/Documents/GitHub/2key-keypad/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
-)

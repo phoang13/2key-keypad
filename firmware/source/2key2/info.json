@@ -1,0 +1,32 @@
+{
+    "keyboard_name": "2key2",
+    "manufacturer": "3-Key-Ecosystem",
+    "url": "https://github.com/softplus/3keyecosystem/tree/main/2key2",
+    "maintainer": "softplus",
+    "usb": {
+        "vid": "0x4B55",
+        "pid": "0x0000",
+        "device_version": "0.0.1"
+    },
+    "rgb_matrix": {
+        "driver": "ws2812"
+    },
+    "matrix_pins": {
+        "cols": ["C6", "C7"],
+        "rows": ["C5"]
+    },
+    "diode_direction": "COL2ROW",
+    "ws2812": {
+        "pin": "B3"
+    },
+    "processor": "atmega32u2",
+    "bootloader": "atmel-dfu",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [0, 1], "x": 1, "y": 0}
+            ]
+        }
+    }
+}
