@@ -1,8 +1,8 @@
 {
-    "keyboard_name": "2key2",
-    "manufacturer": "3-Key-Ecosystem",
-    "url": "https://github.com/softplus/3keyecosystem/tree/main/2key2",
-    "maintainer": "softplus",
+    "keyboard_name": "2kNameless",
+    "manufacturer": "2-Key-Ecosystem",
+    "url": "https://github.com/phoang13/2key-keypad",
+    "maintainer": "phillip",
     "usb": {
         "vid": "0x4B55",
         "pid": "0x0000",
