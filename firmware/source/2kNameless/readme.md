@@ -1,13 +1,11 @@
-# 3-Key-Ecosystem - 2key2
+# 2key - 2kNameless
 
-![keyboard](https://i.imgur.com/IJ1Zyc7.jpeg)
+![keyboard]()
 
 This is a 2x1 macro keyboard with WS2812B key lighting.
-It's designed for a modular keyboard mount using an ATmega32U4.
+It's designed for a modular keyboard mount using an ATmega32U2.
 
-* Keyboard Maintainer: [softplus](https://github.com/softplus)
-* Hardware Supported: [3keyecosystem-2key2](https://github.com/softplus/3keyecosystem/tree/main/2key2)
-* Hardware Availability: Open-Source files at above link
+* Keyboard Maintainer: [phillip](https://github.com/phoang13)
 
 Make example for this keyboard (after setting up your build environment):
 
