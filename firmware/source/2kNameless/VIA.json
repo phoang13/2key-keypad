@@ -2,6 +2,7 @@
     "name":"2kNameless",
     "vendorId":"0x5048",
     "productId":"0x0000",
+    "menus": ["qmk_rgblight"],
     "matrix":{
       "rows":1,
       "cols":2
